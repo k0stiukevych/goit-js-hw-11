@@ -1,4 +1,4 @@
-const API_KEY = '43705346-f08330685c72fc18a8a8b3aad';
+const API_KEY = '44058599-8264f26cc64fdb07aa6105d22';
 const BASE_URL = 'https://pixabay.com/api/';
 
 export const fetchPhotos = searchImage => {
